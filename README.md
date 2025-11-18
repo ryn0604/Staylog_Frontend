@@ -1,4 +1,4 @@
-# Frontend (숙소 상세 페이지 담당)
+# Frontend (숙소 상세 페이지 담당, 리뷰 게시판 댓글 담당)
 
 React + TypeScript + React-Bootstrap 기반의 SPA 형태로 구현했습니다.
 
